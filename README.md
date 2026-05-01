@@ -1,3 +1,4 @@
+<img width="1061" height="914" alt="Capture" src="https://github.com/user-attachments/assets/3a3a9464-fc88-414b-88a8-73c2a553f11b" />
 # Text-to-Speech Vue 3 App
 
 A modern, responsive web application built with **Vue 3** and **Vite** that converts text into synthesized speech using the native **Web Speech API**.
